@@ -1,0 +1,61 @@
+source,metric,group1,group2,value
+NHIS,NHIS_share_fair_poor,Bachelor's,All,0.08210556429695323
+NHIS,NHIS_share_fair_poor,Graduate/Professional,All,0.06797821886527314
+NHIS,NHIS_share_fair_poor,HS diploma/GED,All,0.2047712661388874
+NHIS,NHIS_share_fair_poor,Less than HS,All,0.33606818543890393
+NHIS,NHIS_share_fair_poor,Some college/AA,All,0.16125438513321325
+NHIS,NHIS_share_fair_poor,Unknown,All,0.026417458494309282
+NHIS,NHIS_share_fair_poor,Bachelor's,AIAN,0.15037593984962405
+NHIS,NHIS_share_fair_poor,Bachelor's,Asian,0.07177814029363784
+NHIS,NHIS_share_fair_poor,Bachelor's,Black,0.10793768545994065
+NHIS,NHIS_share_fair_poor,Bachelor's,Other/Multiracial,0.08333333333333333
+NHIS,NHIS_share_fair_poor,Bachelor's,Other/Unknown,0.15813953488372093
+NHIS,NHIS_share_fair_poor,Bachelor's,Unknown-DK,0.17647058823529413
+NHIS,NHIS_share_fair_poor,Bachelor's,Unknown-NA,0.0765661252900232
+NHIS,NHIS_share_fair_poor,Bachelor's,Unknown-Refused,0.05555555555555555
+NHIS,NHIS_share_fair_poor,Bachelor's,White,0.07990226468764815
+NHIS,NHIS_share_fair_poor,Graduate/Professional,AIAN,0.10843373493975904
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Asian,0.044383346425765906
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Black,0.09451046972269384
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Other/Multiracial,0.07581227436823104
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Other/Unknown,0.0967741935483871
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Unknown-DK,0.0
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Unknown-NA,0.06896551724137931
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Unknown-Refused,0.16666666666666666
+NHIS,NHIS_share_fair_poor,Graduate/Professional,White,0.06814831613561628
+NHIS,NHIS_share_fair_poor,HS diploma/GED,AIAN,0.2315270935960591
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Asian,0.16463909164639093
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Black,0.24639740207022529
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Other/Multiracial,0.1300639658848614
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Other/Unknown,0.25958702064896755
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Unknown-DK,0.26666666666666666
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Unknown-NA,0.15913887716336006
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Unknown-Refused,0.25
+NHIS,NHIS_share_fair_poor,HS diploma/GED,White,0.20317380533515242
+NHIS,NHIS_share_fair_poor,Less than HS,AIAN,0.41015625
+NHIS,NHIS_share_fair_poor,Less than HS,Asian,0.2559055118110236
+NHIS,NHIS_share_fair_poor,Less than HS,Black,0.40861291937906863
+NHIS,NHIS_share_fair_poor,Less than HS,Other/Multiracial,0.22857142857142856
+NHIS,NHIS_share_fair_poor,Less than HS,Other/Unknown,0.5
+NHIS,NHIS_share_fair_poor,Less than HS,Unknown-DK,0.14814814814814814
+NHIS,NHIS_share_fair_poor,Less than HS,Unknown-NA,0.26980428704566634
+NHIS,NHIS_share_fair_poor,Less than HS,Unknown-Refused,0.25
+NHIS,NHIS_share_fair_poor,Less than HS,White,0.33833671399594323
+NHIS,NHIS_share_fair_poor,Some college/AA,AIAN,0.21413721413721415
+NHIS,NHIS_share_fair_poor,Some college/AA,Asian,0.11159107271418287
+NHIS,NHIS_share_fair_poor,Some college/AA,Black,0.20430528375733856
+NHIS,NHIS_share_fair_poor,Some college/AA,Other/Multiracial,0.14173228346456693
+NHIS,NHIS_share_fair_poor,Some college/AA,Other/Unknown,0.2843691148775895
+NHIS,NHIS_share_fair_poor,Some college/AA,Unknown-DK,0.12
+NHIS,NHIS_share_fair_poor,Some college/AA,Unknown-NA,0.1363900174114916
+NHIS,NHIS_share_fair_poor,Some college/AA,Unknown-Refused,0.2
+NHIS,NHIS_share_fair_poor,Some college/AA,White,0.15548808823073826
+NHIS,NHIS_share_fair_poor,Unknown,AIAN,0.03140096618357488
+NHIS,NHIS_share_fair_poor,Unknown,Asian,0.017961876832844576
+NHIS,NHIS_share_fair_poor,Unknown,Black,0.04051121292500603
+NHIS,NHIS_share_fair_poor,Unknown,Other/Multiracial,0.018807339449541285
+NHIS,NHIS_share_fair_poor,Unknown,Other/Unknown,0.04259259259259259
+NHIS,NHIS_share_fair_poor,Unknown,Unknown-DK,0.017543859649122806
+NHIS,NHIS_share_fair_poor,Unknown,Unknown-NA,0.043244949494949496
+NHIS,NHIS_share_fair_poor,Unknown,Unknown-Refused,0.021739130434782608
+NHIS,NHIS_share_fair_poor,Unknown,White,0.02313408981940227

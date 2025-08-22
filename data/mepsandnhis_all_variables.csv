@@ -1,0 +1,110 @@
+source,metric,group1,group2,value
+MEPS 2020,mean_totexp,Bachelor+,All,7918.526224
+MEPS 2020,mean_totexp,High School,All,7132.439495
+MEPS 2020,mean_totexp,High School Not Completed,All,3882.926501
+MEPS 2020,mean_totexp,Some College,All,7773.806313
+MEPS 2020,MEPS_mean_total_spend,Bachelor+,1 WHITE - NO OTHER RACE REPORTED,8193.534767
+MEPS 2020,MEPS_mean_total_spend,Bachelor+,2 BLACK - NO OTHER RACE REPORTED,9233.75
+MEPS 2020,MEPS_mean_total_spend,Bachelor+,3 AMER INDIAN/ALASKA NATIVE - NO OTHER RACE,6089.923077
+MEPS 2020,MEPS_mean_total_spend,Bachelor+,4 ASIAN/NATV HAWAIIAN/PACFC ISL-NO OTH,3467.588321
+MEPS 2020,MEPS_mean_total_spend,Bachelor+,6 MULTIPLE RACES REPORTED,14036.26316
+MEPS 2020,MEPS_mean_total_spend,High School,1 WHITE - NO OTHER RACE REPORTED,7314.287173
+MEPS 2020,MEPS_mean_total_spend,High School,2 BLACK - NO OTHER RACE REPORTED,6943.630382
+MEPS 2020,MEPS_mean_total_spend,High School,3 AMER INDIAN/ALASKA NATIVE - NO OTHER RACE,4952.266667
+MEPS 2020,MEPS_mean_total_spend,High School,4 ASIAN/NATV HAWAIIAN/PACFC ISL-NO OTH,4465.815261
+MEPS 2020,MEPS_mean_total_spend,High School,6 MULTIPLE RACES REPORTED,8089.983333
+MEPS 2020,MEPS_mean_total_spend,High School Not Completed,1 WHITE - NO OTHER RACE REPORTED,3890.325581
+MEPS 2020,MEPS_mean_total_spend,High School Not Completed,2 BLACK - NO OTHER RACE REPORTED,4160.804169
+MEPS 2020,MEPS_mean_total_spend,High School Not Completed,3 AMER INDIAN/ALASKA NATIVE - NO OTHER RACE,7509.009615
+MEPS 2020,MEPS_mean_total_spend,High School Not Completed,4 ASIAN/NATV HAWAIIAN/PACFC ISL-NO OTH,2879.363014
+MEPS 2020,MEPS_mean_total_spend,High School Not Completed,6 MULTIPLE RACES REPORTED,3066.781369
+MEPS 2020,MEPS_mean_total_spend,Some College,1 WHITE - NO OTHER RACE REPORTED,7856.189793
+MEPS 2020,MEPS_mean_total_spend,Some College,2 BLACK - NO OTHER RACE REPORTED,7517.445869
+MEPS 2020,MEPS_mean_total_spend,Some College,3 AMER INDIAN/ALASKA NATIVE - NO OTHER RACE,4822.612903
+MEPS 2020,MEPS_mean_total_spend,Some College,4 ASIAN/NATV HAWAIIAN/PACFC ISL-NO OTH,3896.186047
+MEPS 2020,MEPS_mean_total_spend,Some College,6 MULTIPLE RACES REPORTED,12479.21302
+MEPS 2020,MEPS_uninsured_rate,1 POOR/NEGATIVE,1 WHITE - NO OTHER RACE REPORTED,0.135721328
+MEPS 2020,MEPS_uninsured_rate,1 POOR/NEGATIVE,2 BLACK - NO OTHER RACE REPORTED,0.106557377
+MEPS 2020,MEPS_uninsured_rate,1 POOR/NEGATIVE,3 AMER INDIAN/ALASKA NATIVE - NO OTHER RACE,0.282608696
+MEPS 2020,MEPS_uninsured_rate,1 POOR/NEGATIVE,4 ASIAN/NATV HAWAIIAN/PACFC ISL-NO OTH,0.146496815
+MEPS 2020,MEPS_uninsured_rate,1 POOR/NEGATIVE,6 MULTIPLE RACES REPORTED,0.087557604
+MEPS 2020,MEPS_uninsured_rate,2 NEAR POOR,1 WHITE - NO OTHER RACE REPORTED,0.112603306
+MEPS 2020,MEPS_uninsured_rate,2 NEAR POOR,2 BLACK - NO OTHER RACE REPORTED,0.093103448
+MEPS 2020,MEPS_uninsured_rate,2 NEAR POOR,3 AMER INDIAN/ALASKA NATIVE - NO OTHER RACE,0.25
+MEPS 2020,MEPS_uninsured_rate,2 NEAR POOR,4 ASIAN/NATV HAWAIIAN/PACFC ISL-NO OTH,0.0625
+MEPS 2020,MEPS_uninsured_rate,2 NEAR POOR,6 MULTIPLE RACES REPORTED,0.037037037
+MEPS 2020,MEPS_uninsured_rate,3 LOW INCOME,1 WHITE - NO OTHER RACE REPORTED,0.122374125
+MEPS 2020,MEPS_uninsured_rate,3 LOW INCOME,2 BLACK - NO OTHER RACE REPORTED,0.086657497
+MEPS 2020,MEPS_uninsured_rate,3 LOW INCOME,3 AMER INDIAN/ALASKA NATIVE - NO OTHER RACE,0.191489362
+MEPS 2020,MEPS_uninsured_rate,3 LOW INCOME,4 ASIAN/NATV HAWAIIAN/PACFC ISL-NO OTH,0.056818182
+MEPS 2020,MEPS_uninsured_rate,3 LOW INCOME,6 MULTIPLE RACES REPORTED,0.068027211
+MEPS 2020,MEPS_uninsured_rate,4 MIDDLE INCOME,1 WHITE - NO OTHER RACE REPORTED,0.091311002
+MEPS 2020,MEPS_uninsured_rate,4 MIDDLE INCOME,2 BLACK - NO OTHER RACE REPORTED,0.063931298
+MEPS 2020,MEPS_uninsured_rate,4 MIDDLE INCOME,3 AMER INDIAN/ALASKA NATIVE - NO OTHER RACE,0.19047619
+MEPS 2020,MEPS_uninsured_rate,4 MIDDLE INCOME,4 ASIAN/NATV HAWAIIAN/PACFC ISL-NO OTH,0.018229167
+MEPS 2020,MEPS_uninsured_rate,4 MIDDLE INCOME,6 MULTIPLE RACES REPORTED,0.062240664
+MEPS 2020,MEPS_uninsured_rate,5 HIGH INCOME,1 WHITE - NO OTHER RACE REPORTED,0.039503386
+MEPS 2020,MEPS_uninsured_rate,5 HIGH INCOME,2 BLACK - NO OTHER RACE REPORTED,0.041716329
+MEPS 2020,MEPS_uninsured_rate,5 HIGH INCOME,3 AMER INDIAN/ALASKA NATIVE - NO OTHER RACE,0.075471698
+MEPS 2020,MEPS_uninsured_rate,5 HIGH INCOME,4 ASIAN/NATV HAWAIIAN/PACFC ISL-NO OTH,0.01459854
+MEPS 2020,MEPS_uninsured_rate,5 HIGH INCOME,6 MULTIPLE RACES REPORTED,0.014326648
+NHIS,NHIS_share_fair_poor,Bachelor's,All,0.082105564
+NHIS,NHIS_share_fair_poor,Graduate/Professional,All,0.067978219
+NHIS,NHIS_share_fair_poor,HS diploma/GED,All,0.204771266
+NHIS,NHIS_share_fair_poor,Less than HS,All,0.336068185
+NHIS,NHIS_share_fair_poor,Some college/AA,All,0.161254385
+NHIS,NHIS_share_fair_poor,Unknown,All,0.026417458
+NHIS,NHIS_share_fair_poor,Bachelor's,AIAN,0.15037594
+NHIS,NHIS_share_fair_poor,Bachelor's,Asian,0.07177814
+NHIS,NHIS_share_fair_poor,Bachelor's,Black,0.107937685
+NHIS,NHIS_share_fair_poor,Bachelor's,Other/Multiracial,0.083333333
+NHIS,NHIS_share_fair_poor,Bachelor's,Other/Unknown,0.158139535
+NHIS,NHIS_share_fair_poor,Bachelor's,Unknown-DK,0.176470588
+NHIS,NHIS_share_fair_poor,Bachelor's,Unknown-NA,0.076566125
+NHIS,NHIS_share_fair_poor,Bachelor's,Unknown-Refused,0.055555556
+NHIS,NHIS_share_fair_poor,Bachelor's,White,0.079902265
+NHIS,NHIS_share_fair_poor,Graduate/Professional,AIAN,0.108433735
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Asian,0.044383346
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Black,0.09451047
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Other/Multiracial,0.075812274
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Other/Unknown,0.096774194
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Unknown-DK,0
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Unknown-NA,0.068965517
+NHIS,NHIS_share_fair_poor,Graduate/Professional,Unknown-Refused,0.166666667
+NHIS,NHIS_share_fair_poor,Graduate/Professional,White,0.068148316
+NHIS,NHIS_share_fair_poor,HS diploma/GED,AIAN,0.231527094
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Asian,0.164639092
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Black,0.246397402
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Other/Multiracial,0.130063966
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Other/Unknown,0.259587021
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Unknown-DK,0.266666667
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Unknown-NA,0.159138877
+NHIS,NHIS_share_fair_poor,HS diploma/GED,Unknown-Refused,0.25
+NHIS,NHIS_share_fair_poor,HS diploma/GED,White,0.203173805
+NHIS,NHIS_share_fair_poor,Less than HS,AIAN,0.41015625
+NHIS,NHIS_share_fair_poor,Less than HS,Asian,0.255905512
+NHIS,NHIS_share_fair_poor,Less than HS,Black,0.408612919
+NHIS,NHIS_share_fair_poor,Less than HS,Other/Multiracial,0.228571429
+NHIS,NHIS_share_fair_poor,Less than HS,Other/Unknown,0.5
+NHIS,NHIS_share_fair_poor,Less than HS,Unknown-DK,0.148148148
+NHIS,NHIS_share_fair_poor,Less than HS,Unknown-NA,0.269804287
+NHIS,NHIS_share_fair_poor,Less than HS,Unknown-Refused,0.25
+NHIS,NHIS_share_fair_poor,Less than HS,White,0.338336714
+NHIS,NHIS_share_fair_poor,Some college/AA,AIAN,0.214137214
+NHIS,NHIS_share_fair_poor,Some college/AA,Asian,0.111591073
+NHIS,NHIS_share_fair_poor,Some college/AA,Black,0.204305284
+NHIS,NHIS_share_fair_poor,Some college/AA,Other/Multiracial,0.141732283
+NHIS,NHIS_share_fair_poor,Some college/AA,Other/Unknown,0.284369115
+NHIS,NHIS_share_fair_poor,Some college/AA,Unknown-DK,0.12
+NHIS,NHIS_share_fair_poor,Some college/AA,Unknown-NA,0.136390017
+NHIS,NHIS_share_fair_poor,Some college/AA,Unknown-Refused,0.2
+NHIS,NHIS_share_fair_poor,Some college/AA,White,0.155488088
+NHIS,NHIS_share_fair_poor,Unknown,AIAN,0.031400966
+NHIS,NHIS_share_fair_poor,Unknown,Asian,0.017961877
+NHIS,NHIS_share_fair_poor,Unknown,Black,0.040511213
+NHIS,NHIS_share_fair_poor,Unknown,Other/Multiracial,0.018807339
+NHIS,NHIS_share_fair_poor,Unknown,Other/Unknown,0.042592593
+NHIS,NHIS_share_fair_poor,Unknown,Unknown-DK,0.01754386
+NHIS,NHIS_share_fair_poor,Unknown,Unknown-NA,0.043244949
+NHIS,NHIS_share_fair_poor,Unknown,Unknown-Refused,0.02173913
+NHIS,NHIS_share_fair_poor,Unknown,White,0.02313409

@@ -1,0 +1,121 @@
+﻿education attainment,Health Status,Sum of Value,race_grp
+Unknown,Excellent,0.6608598369825796,White
+Unknown,Excellent,0.6466275659824047,Asian
+Unknown,Excellent,0.5837955148299976,Black
+Unknown,Excellent,0.5748792270531401,AIAN
+Bachelor's,Very Good,0.4174173079027023,White
+Graduate/Professional,Very Good,0.4162603469781154,White
+Less than HS,Good,0.4035433070866142,Asian
+Graduate/Professional,Very Good,0.39984289080911234,Asian
+Graduate/Professional,Very Good,0.3855421686746988,AIAN
+Bachelor's,Very Good,0.38345864661654133,AIAN
+HS diploma/GED,Good,0.36982968369829683,Asian
+Graduate/Professional,Very Good,0.3655913978494624,Black
+Bachelor's,Very Good,0.3634584013050571,Asian
+Some college/AA,Very Good,0.35732209795842496,White
+HS diploma/GED,Good,0.35467980295566504,AIAN
+Bachelor's,Very Good,0.34977744807121663,Black
+HS diploma/GED,Good,0.3480819971585143,Black
+Some college/AA,Good,0.34598825831702545,Black
+HS diploma/GED,Good,0.3408250457760385,White
+Less than HS,Good,0.33536173089925625,White
+Less than HS,Good,0.33199799699549326,Black
+Some college/AA,Very Good,0.33189344852411806,Asian
+Graduate/Professional,Excellent,0.3318931657501964,Asian
+Some college/AA,Very Good,0.3180873180873181,AIAN
+Some college/AA,Good,0.3146148308135349,Asian
+Bachelor's,Good,0.314540059347181,Black
+Less than HS,Fair,0.30796194291437157,Black
+Some college/AA,Good,0.30499705691006535,White
+HS diploma/GED,Very Good,0.3032348400531361,White
+Graduate/Professional,Excellent,0.3023585440526137,White
+Some college/AA,Good,0.30145530145530147,AIAN
+Less than HS,Fair,0.29296875,AIAN
+Graduate/Professional,Good,0.2903225806451613,Black
+Bachelor's,Excellent,0.2864600326264274,Asian
+Bachelor's,Good,0.27830342577487766,Asian
+Some college/AA,Very Good,0.2735812133072407,Black
+HS diploma/GED,Very Good,0.270935960591133,AIAN
+Bachelor's,Excellent,0.26888151416797346,White
+Graduate/Professional,Excellent,0.26506024096385544,AIAN
+HS diploma/GED,Very Good,0.2643957826439578,Asian
+Less than HS,Good,0.2578125,AIAN
+Bachelor's,Good,0.2556390977443609,AIAN
+Unknown,Very Good,0.25120772946859904,AIAN
+Graduate/Professional,Excellent,0.2490096208262592,Black
+Some college/AA,Excellent,0.24118070554355653,Asian
+Graduate/Professional,Good,0.24096385542168675,AIAN
+Less than HS,Fair,0.23556457065584854,White
+Bachelor's,Good,0.23336129244010065,White
+Unknown,Very Good,0.2316715542521994,Asian
+HS diploma/GED,Very Good,0.22995737771463365,Black
+Bachelor's,Excellent,0.2273738872403561,Black
+Less than HS,Very Good,0.2265625,AIAN
+Unknown,Very Good,0.22401736194839644,Black
+Graduate/Professional,Good,0.2234878240377062,Asian
+Unknown,Very Good,0.22067284641201854,White
+Graduate/Professional,Good,0.21283592244018595,White
+Bachelor's,Excellent,0.21052631578947367,AIAN
+Less than HS,Very Good,0.20275590551181102,Asian
+HS diploma/GED,Fair,0.2007306677491374,Black
+HS diploma/GED,Excellent,0.2003244120032441,Asian
+Less than HS,Very Good,0.1997295469912103,White
+Some college/AA,Excellent,0.18179001827813748,White
+Some college/AA,Fair,0.17671517671517672,AIAN
+Some college/AA,Excellent,0.17534246575342466,Black
+HS diploma/GED,Excellent,0.1749543332656789,Black
+Some college/AA,Fair,0.16829745596868884,Black
+Some college/AA,Excellent,0.16424116424116425,AIAN
+HS diploma/GED,Fair,0.1625615763546798,AIAN
+Less than HS,Fair,0.15748031496062992,Asian
+Less than HS,Very Good,0.1557336004006009,Black
+HS diploma/GED,Fair,0.15423832262233872,White
+HS diploma/GED,Excellent,0.15222776720640505,White
+Unknown,Good,0.1514347721244273,Black
+HS diploma/GED,Excellent,0.14285714285714285,AIAN
+Unknown,Good,0.14251207729468598,AIAN
+Less than HS,Excellent,0.13779527559055121,Asian
+Less than HS,Excellent,0.12603110209601082,White
+HS diploma/GED,Fair,0.12570965125709652,Asian
+Bachelor's,Fair,0.12030075187969924,AIAN
+Some college/AA,Fair,0.11911769261749125,White
+Less than HS,Poor,0.1171875,AIAN
+Unknown,Good,0.10373900293255132,Asian
+Less than HS,Excellent,0.10315473209814723,Black
+Less than HS,Poor,0.10277214334009466,White
+Less than HS,Excellent,0.1015625,AIAN
+Less than HS,Poor,0.10065097646469705,Black
+Less than HS,Poor,0.0984251968503937,Asian
+Unknown,Good,0.09497362953492089,White
+Some college/AA,Fair,0.09287257019438445,Asian
+Bachelor's,Fair,0.08716617210682492,Black
+Graduate/Professional,Fair,0.08433734939759036,AIAN
+Graduate/Professional,Fair,0.07696661007357103,Black
+HS diploma/GED,Poor,0.06896551724137931,AIAN
+Bachelor's,Fair,0.06403851063053864,White
+Bachelor's,Fair,0.05970636215334421,Asian
+Graduate/Professional,Fair,0.05374759042975394,White
+HS diploma/GED,Poor,0.0489354827128137,White
+HS diploma/GED,Poor,0.045666734321087886,Black
+HS diploma/GED,Poor,0.038929440389294405,Asian
+Some college/AA,Poor,0.037422037422037424,AIAN
+Some college/AA,Poor,0.036370395613247,White
+Some college/AA,Poor,0.03600782778864971,Black
+Graduate/Professional,Fair,0.03456402199528672,Asian
+Unknown,Fair,0.03400048227634435,Black
+Bachelor's,Poor,0.03007518796992481,AIAN
+Unknown,Fair,0.026570048309178744,AIAN
+Graduate/Professional,Poor,0.024096385542168676,AIAN
+Bachelor's,Poor,0.020771513353115726,Black
+Unknown,Fair,0.01945820680837462,White
+Some college/AA,Poor,0.018718502519798418,Asian
+Graduate/Professional,Poor,0.017543859649122806,Black
+Bachelor's,Poor,0.015863754057109516,White
+Unknown,Fair,0.01466275659824047,Asian
+Graduate/Professional,Poor,0.014400725705862342,White
+Bachelor's,Poor,0.012071778140293638,Asian
+Graduate/Professional,Poor,0.009819324430479183,Asian
+Unknown,Poor,0.0065107306486616836,Black
+Unknown,Poor,0.004830917874396135,AIAN
+Unknown,Poor,0.003675883011027649,White
+Unknown,Poor,0.0032991202346041057,Asian
