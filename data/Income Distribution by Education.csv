@@ -1,0 +1,21 @@
+﻿edu_group,POVCAT20,Sum of count
+Bachelor+,NEAR POOR,125
+Some College,NEAR POOR,211
+Bachelor+,POOR/NEGATIVE,304
+High School,NEAR POOR,360
+Bachelor+,LOW INCOME,433
+Some College,POOR/NEGATIVE,592
+High School Not Completed,NEAR POOR,676
+Some College,LOW INCOME,689
+High School,LOW INCOME,1146
+High School,POOR/NEGATIVE,1188
+Bachelor+,MIDDLE INCOME,1488
+Some College,MIDDLE INCOME,1612
+High School,HIGH INCOME,1721
+Some College,HIGH INCOME,1775
+High School Not Completed,LOW INCOME,1828
+High School,MIDDLE INCOME,2006
+High School Not Completed,HIGH INCOME,2046
+High School Not Completed,MIDDLE INCOME,2511
+High School Not Completed,POOR/NEGATIVE,2599
+Bachelor+,HIGH INCOME,4495
