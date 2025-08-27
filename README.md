@@ -1,41 +1,55 @@
-### 1. Getting Started With the Geospatial Environment
-To run the notebooks for this project, you will need some additional python packages. 
-You can install these using conda. 
-We have provided an `environment.yaml` file with the packages to be used for the project.
-This `environment.yaml` file will create a new environment for you called `geospatial`.
+#  Socioeconomic and Demographic Disparities in Health and Healthcare Expenditures
 
-Open your terminal, and `cd` into this project. 
-From there run: 
-```bash
-conda env create -f environment.yaml
-```
+## Table of Contents
+- [Overview](##Overview)
+- [Research Question](#ResearchQuestion)
+- [Motivation](#Motivation)
+- [Data Question(s)](#DataQuestions)
+- [Technologies Used](#TechnologiesUsed)
+- [Data Source](#DataSource)
+- [Known Issues and Challenges](#KnownIssuesandChallenges)
+- [Dashboard Preview](#DashboardPreview)
+- [Dashboard Link](#DashboardLink)
 
-Once this has been created for you, it is easiest to run from the command line.
-For example, to open a new session with jupyter run: 
-```
-conda activate geospatial
-jupyter notebook
-```
-To close the notebook, type ctrl-c
-To stop using the geospatial environment:
-```
-conda deactivate
-```
+## Overview
+ This project explores how socioeconomic and demographic factors influence both perceived health and actual healthcare utilization/expenditure. Using national survey data from NHIS (National Health Interview Survey) and MEPS (Medical Expenditure Panel Survey), the analysis identifies disparities based on education, income, race/ethnicity, gender, and geographic region.
+
+## Research Question
+How do socioeconomic and demographic factors shape both self-reported health (NHIS) and actual healthcare expenditures/utilization (MEPS)?
 
 
-### 2. Introduction slide deck and notebooks  
-##### slides 
- - importance of location to some kinds of analysis
- - `geopandas` GeoDataFrames
- - types of geometry
- - intro to coordinate reference systems
- - spatial joins
- - adding context with `folium` maps
-    - constructing maps
-    - markers
-    - marker clusters
-    - popups
-##### notebooks
-- geospatial_intro.ipynb (geopandas and foilum)
-- qualitative_maps.ipynb (geopandas and matplotlib styling elements)
-- choropleth_tutorial.ipynb (geopandas choropleth)
+
+## Motivation
+
+One of my last electives as an economics major was a health economics class. That course really illuminated for me how deeply education, income, and race shape people’s access to healthcare and their overall health outcomes. It was eye-opening to see the data behind disparities that are often discussed in broad terms but rarely analyzed in depth.
+Now, in my data analytics training, I wanted to build on that foundation. This project gave me the chance to apply what I learned in health economics — using real-world data to analyze how socioeconomic and demographic factors influence health. My motivation is to connect that academic insight with actionable analysis, showing where inequities persist even when education and income improve.
+
+
+## Data Questions(s)
+
+How can data analytics be used to reveal the emotional arcs, thematic language patterns, and dramatic relationships in Macbeth?
+
+Sub-questions:
+1.	How does educational attainment impact income distribution and perceived health?
+2.	Are there differences in health status across races/ethnicities at different education levels?
+3.	How do insurance coverage types vary by education?
+4.	Do regional and gender differences exist in healthcare spending?
+5. Which groups report the highest rates of poor health despite spending levels?
+
+## Technologies Used
+1. Python/Jupyter Notebook
+2. Microsoft Power BI
+3. Canvas
+
+## Data Source
+[The Folger Shakespeare Library API tools](#https://www.folgerdigitaltexts.org/api)
+
+## Known Issues and Challenges
+1. VADER, along with other sentiment analysis Python packages, may misinterpret early modern English syntax of vocabulary.
+2. Sentiment analysis cannot fully capture irony, sarcasm, or layered meanings in Shakespeare's text.
+
+## Dashboard Preview
+![alt text](<Dashboard_Preview.png>)
+
+## Dashboard Link
+[Macbeth Capstone Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBhNzY1YmMtZjkzMy00NzIzLWEwNDYtOWI4NjMyZTQ2M2U2IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&embedImagePlaceholder=true)
