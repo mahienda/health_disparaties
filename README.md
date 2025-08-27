@@ -8,7 +8,6 @@
 - [Technologies Used](#TechnologiesUsed)
 - [Data Source](#DataSource)
 - [Known Issues and Challenges](#KnownIssuesandChallenges)
-- [Dashboard Preview](#DashboardPreview)
 - [Dashboard Link](#DashboardLink)
 
 ## Overview
