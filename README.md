@@ -21,7 +21,7 @@ How do socioeconomic and demographic factors shape both self-reported health (NH
 ## Motivation
 
 One of my last electives as an economics major was a health economics class. That course really illuminated for me how deeply education, income, and race shape people’s access to healthcare and their overall health outcomes. It was eye-opening to see the data behind disparities that are often discussed in broad terms but rarely analyzed in depth.
-Now, in my data analytics training, I wanted to build on that foundation. This project gave me the chance to apply what I learned in health economics — using real-world data to analyze how socioeconomic and demographic factors influence health. My motivation is to connect that academic insight with actionable analysis, showing where inequities persist even when education and income improve.
+Now, in my data analytics training, I wanted to build on that foundation. This project gave me the chance to apply what I learned in health economics using real-world data to analyze how socioeconomic and demographic factors influence health. My motivation is to connect that academic insight with actionable analysis, showing where inequities persist even when education and income improve.
 
 
 ## Data Questions(s)
