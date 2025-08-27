@@ -27,7 +27,8 @@ Now, in my data analytics training, I wanted to build on that foundation. This p
 
 ## Data Questions(s)
 
-How can data analytics be used to reveal the emotional arcs, thematic language patterns, and dramatic relationships in Macbeth?
+ How can data analytics be used to examine how socioeconomic and demographic factors shape health outcomes in the United States?
+
 
 Sub-questions:
 1.	How does educational attainment impact income distribution and perceived health?
@@ -39,17 +40,15 @@ Sub-questions:
 ## Technologies Used
 1. Python/Jupyter Notebook
 2. Microsoft Power BI
-3. Canvas
+3. Canva
 
 ## Data Source
-[The Folger Shakespeare Library API tools](#https://www.folgerdigitaltexts.org/api)
+[NHIS-Dataset](# https://nhis.ipums.org/nhis-action/extract_requests/download)
+[MEPS-Dataset](#https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-224)
 
 ## Known Issues and Challenges
-1. VADER, along with other sentiment analysis Python packages, may misinterpret early modern English syntax of vocabulary.
-2. Sentiment analysis cannot fully capture irony, sarcasm, or layered meanings in Shakespeare's text.
+1. Survey limitations: NHIS survey data is self-reported, which can lead to bias or under/over-reporting in health status and healthcare utilization.
+2. Causality vs Correlation: The data shows associations between education, income, and health, but it cannot prove direct causation.
 
-## Dashboard Preview
-![alt text](<Dashboard_Preview.png>)
 
 ## Dashboard Link
-[Macbeth Capstone Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBhNzY1YmMtZjkzMy00NzIzLWEwNDYtOWI4NjMyZTQ2M2U2IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&embedImagePlaceholder=true)
