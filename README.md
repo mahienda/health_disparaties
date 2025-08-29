@@ -41,9 +41,9 @@ Sub-questions:
 2. Microsoft Power BI
 3. Canva
 
-## Data Source
-[NHIS-Dataset](# https://nhis.ipums.org/nhis-action/extract_requests/download)
-[MEPS-Dataset](# https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-224)
+## Data Sources
+- [NHIS-Dataset](# https://nhis.ipums.org/nhis-action/extract_requests/download)
+- [MEPS-Dataset](# https://meps.ahrq.gov/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-224)
 
 ## Known Issues and Challenges
 1. Survey limitations: NHIS survey data is self-reported, which can lead to bias or under/over-reporting in health status and healthcare utilization.
